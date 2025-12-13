@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hola, soy Julián :)  👋
+
+Desarrollador de software Web🖥  
+
+
 
 <!--
 **JoseJulian01/JoseJulian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
