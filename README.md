@@ -1,20 +1,68 @@
-# Hola, soy Julián :)  👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Hey!%20Soy%20Juli%C3%A1n%20:)&descSize=30&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
-Desarrollador de software Web🖥  
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
+</div>
 
+###
 
-<!--
-**JoseJulian01/JoseJulian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="both">
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/julian-flores-r/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="right" height="300" src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif"  />
+
+###
+
+<p align="left">¡Hola! Soy desarrollador Backend, en dispositivos móviles.<br>Con un objetivo de darle oportunidades y herramientas a quien lo necesitan.<br>Siempre de manera responsable tanto técnica y éticamente.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulian01&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=JoseJulian01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseJulian01/JoseJulian01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseJulian01/JoseJulian01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseJulian01/JoseJulian01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Gracias%20por%20visitarme%20:)&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
