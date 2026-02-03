@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy desarrollador Backend, en dispositivos móviles.<br>Con un objetivo de darle oportunidades y herramientas a quien lo necesitan.<br>Siempre de manera responsable tanto técnica y éticamente.</p>
+<p align="left">¡Hola! Soy estudiante de licenciatura de la Universidad de Guadalajara en Tecnologías de la información, enfocado a ser un próximo desarrollador de aplicaciones móviles.</p>
 
 ###
 
